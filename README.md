@@ -1,5 +1,7 @@
 ## Project Overview
 
+The code notebook is [here](https://github.com/Raphlawren/Potato-Disease/blob/main/Training/GPU_training.ipynb).
+
 I built an end-to-end Convolutional Neural Network (CNN) classification model to classify diseases on potato leaves, to predict whether they have early blight, late blight or are healthy, and deployed the model.
 
 The model was trained using Adam optimizer and achieved:
