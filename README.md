@@ -21,3 +21,5 @@ I used Postman which a client tool to test the model but by sending HTTP request
 I built a local web-based app using React.js to implement how the model would be deploy and be used by people e.g farmers.
 
 I then deployed the model on Google cloud platform.
+
+<img width="959" height="950" alt="Screenshot From 2026-01-21 23-55-01" src="https://github.com/user-attachments/assets/c1824d5b-ecf7-4841-8c4b-8b2b8d4c323f" />
